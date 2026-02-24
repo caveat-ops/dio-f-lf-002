@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servidor Web Apache - Dio Linux</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            background: white;
+            padding: 3rem;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            text-align: center;
+            max-width: 600px;
+        }
+        h1 {
+            color: #667eea;
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .badge {
+            display: inline-block;
+            background: #10b981;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+        .info {
+            background: #f3f4f6;
+            padding: 1.5rem;
+            border-radius: 10px;
+            margin: 1.5rem 0;
+            text-align: left;
+        }
+        .info p {
+            margin: 0.5rem 0;
+        }
+        .footer {
+            margin-top: 2rem;
+            color: #666;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="badge">🟢 Servidor Online</div>
+        <h1>Apache Web Server</h1>
+        <p>Provisionado automaticamente com Docker</p>
+        
+        <div class="info">
+            <p><strong>🌐 Servidor:</strong> Apache2</p>
+            <p><strong>🐳 Container:</strong> Debian Stable</p>
+            <p><strong>🔐 SSL:</strong> Let's Encrypt</p>
+            <p><strong>📁 Virtual Hosts:</strong> Suportado</p>
+        </div>
+        
+        <div class="footer">
+            <p>Desafio DIO - Linux Fundamentals</p>
+            <p>Infraestrutura como Código</p>
+        </div>
+    </div>
+</body>
+</html>

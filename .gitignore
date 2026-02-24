@@ -1,0 +1,30 @@
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Certificados SSL (gerados automaticamente)
+config/ssl/
+*.pem
+*.key
+*.crt
+*.csr
+
+# Docker
+.dockerignore
+
+# Temporary files
+tmp/
+temp/
