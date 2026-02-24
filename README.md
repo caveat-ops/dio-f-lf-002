@@ -1,5 +1,18 @@
 # 🌐 Provisionador Automático de Servidor Web Apache
 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+[![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![SSL](https://img.shields.io/badge/SSL/TLS-Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://letsencrypt.org/)
+[![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![IaC](https://img.shields.io/badge/Infraestrutura_como_Código-FF6F00?style=for-the-badge)](https://en.wikipedia.org/wiki/Infrastructure_as_code)
+[![License](https://img.shields.io/badge/Licen%C3%A1_Educacional--green?style=for-the-badge)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/seu-usuario/apache-web-server?style=for-the-badge)](https://github.com/seu-usuario/apache-web-server/commits/main)
+[![GitHub Issues](https://img.shields.io/github/issues/seu-usuario/apache-web-server?style=for-the-badge)](https://github.com/seu-usuario/apache-web-server/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/seu-usuario/apache-web-server?style=for-the-badge)](https://github.com/seu-usuario/apache-web-server/stargazers)
+
 > **Disclaimer:** Este projeto foi desenvolvido com o auxílio de inteligência artificial como acelerador de produtividade.  
 > - **IA Utilizada:** [OpenCode](https://opencode.ai)  
 > - **Modelo:** big-pickle  
