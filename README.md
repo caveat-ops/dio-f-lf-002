@@ -8,7 +8,7 @@
 [![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![IaC](https://img.shields.io/badge/Infraestrutura_como_Código-FF6F00?style=for-the-badge)](https://en.wikipedia.org/wiki/Infrastructure_as_code)
-[![License](https://img.shields.io/badge/Licen%C3%A1_Educacional--green?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/Licen%ç3%A1_Educacional--green?style=for-the-badge)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/caveat-ops/dio-f-lf-002?style=for-the-badge)](https://github.com/caveat-ops/dio-f-lf-002/commits/main)
 [![GitHub Issues](https://img.shields.io/github/issues/caveat-ops/dio-f-lf-002?style=for-the-badge)](https://github.com/caveat-ops/dio-f-lf-002/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/caveat-ops/dio-f-lf-002?style=for-the-badge)](https://github.com/caveat-ops/dio-f-lf-002/stargazers)
@@ -174,7 +174,7 @@ Este projeto é para fins educacionais.
 
 ## 👨‍💻 Autor
 
-Seu Nome - [GitHub](https://github.com/seu-usuario)
+Caveat - [GitHub](https://github.com/caveat-ops)
 
 ---
 
